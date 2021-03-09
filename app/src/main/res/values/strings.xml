@@ -1,0 +1,204 @@
+<resources>
+    <string name="app_name">VizniRežim</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+
+    <string-array name="zemlje1">
+        <item>Avganistan</item>
+        <item>Albanija</item>
+        <item>Alžir</item>
+        <item>Antigva i Barbuda</item>
+        <item>Argentina</item>
+        <item>Jermenija</item>
+        <item>Australija</item>
+        <item>Austrija</item>
+        <item>Azerbejdžan</item>
+        <item>Bahami</item>
+        <item>Bahrein</item>
+        <item>Bangladeš</item>
+        <item>Barbados</item>
+        <item>Belorusija</item>
+        <item>Belgija</item>
+        <item>Belize</item>
+        <item>Benin</item>
+        <item>Butan</item>
+        <item>Bolivija</item>
+        <item>Bosna i Hercegovina</item>
+        <item>Bocvana</item>
+        <item>Brazil</item>
+        <item>Bruneji</item>
+        <item>Bugarska</item>
+        <item>Burkina Faso</item>
+        <item>Burundi</item>
+        <item>Kambodža</item>
+        <item>Kamerun</item>
+        <item>Kanada</item>
+        <item>Kabo Verde</item>
+        <item>Centralfnoafrička Republika</item>
+        <item>Čad</item>
+        <item>Čile</item>
+        <item>Kina</item>
+        <item>Kolumbija</item>
+        <item>Unija Komora</item>
+        <item>Kongo Demokratska Republika</item>
+        <item>Kongo Republika</item>
+        <item>Kostarika</item>
+        <item>Hrvatska</item>
+        <item>Kuba</item>
+        <item>Kipar</item>
+        <item>Češka Republika</item>
+        <item>Danska</item>
+        <item>Džibuti</item>
+        <item>Dominika</item>
+        <item>Dominikanska Republika</item>
+        <item>Istočni Timor</item>
+        <item>Ekvador</item>
+        <item>Egipat</item>
+        <item>El Salvador</item>
+        <item>Ekvatorijalna Gvineja</item>
+        <item>Eritreja</item>
+        <item>Estonija</item>
+        <item>Esvatini</item>
+        <item>Etiopija</item>
+        <item>Fidži</item>
+        <item>Finska</item>
+        <item>Francuska</item>
+        <item>Gabon</item>
+        <item>Gambija</item>
+        <item>Gruzija</item>
+        <item>Nemačka</item>
+        <item>Gana</item>
+        <item>Grčka</item>
+        <item>Grenada</item>
+        <item>Gvatemala</item>
+        <item>Gvineja Republika</item>
+        <item>Gvineja Bisao</item>
+        <item>Gvajana</item>
+        <item>Haiti</item>
+        <item>Honduras</item>
+        <item>Mađarska</item>
+        <item>Island</item>
+        <item>Indija</item>
+        <item>Indonezija</item>
+        <item>Iran</item>
+        <item>Irak</item>
+        <item>Irska</item>
+        <item>Izrael</item>
+        <item>Italija</item>
+        <item>Republika Kot d ` Ivoar</item>
+        <item>Jamajka</item>
+        <item>Japan</item>
+        <item>Jordan</item>
+        <item>Kazahstan Republika</item>
+        <item>Kenija Republika</item>
+        <item>Kiribati</item>
+        <item>Koreja DNR</item>
+        <item>Koreja Republika</item>
+        <item>Kuvajt</item>
+        <item>Kirgiska Republika</item>
+        <item>Laos</item>
+        <item>Letonija</item>
+        <item>Liban</item>
+        <item>Lesoto</item>
+        <item>Liberija</item>
+        <item>Libija</item>
+        <item>Lihtenštajn</item>
+        <item>Litvanija</item>
+        <item>Luksemburg</item>
+        <item>Severna Makedonija</item>
+        <item>Madagaskar</item>
+        <item>Malavi</item>
+        <item>Malezija</item>
+        <item>Moldavija Republika</item>
+        <item>Monako</item>
+        <item>Mongolija</item>
+        <item>Crna Gora</item>
+        <item>Maroko</item>
+        <item>Mjanmar</item>
+        <item>Nambija</item>
+        <item>Nauru</item>
+        <item>Nepal</item>
+        <item>Holandija</item>
+        <item>Novi Zeland</item>
+        <item>Nikaragva</item>
+        <item>Niger</item>
+        <item>Nigerija</item>
+        <item>Norveška</item>
+        <item>Oman</item>
+        <item>Pakistan</item>
+        <item>Palau</item>
+        <item>Palestina</item>
+        <item>Panama</item>
+        <item>Papua Nova Gvineja</item>
+        <item>Paragvaj</item>
+        <item>Peru</item>
+        <item>Filipini</item>
+        <item>Poljska</item>
+        <item>Portugalija</item>
+        <item>Katar</item>
+        <item>Rumunija</item>
+        <item>Ruska Federacija</item>
+        <item>Ruanda</item>
+        <item>Sent Kits i Nevis</item>
+        <item>Sveta Lucija</item>
+        <item>Sveti Vinsent i Grenadini</item>
+        <item>Samoa</item>
+        <item>San Marino</item>
+        <item>Sao Tome i Principe</item>
+        <item>Saudijska Arabija</item>
+        <item>Senegal</item>
+        <item>Sejšeli</item>
+        <item>Sijera Leone</item>
+        <item>Singapur</item>
+        <item>Slovačka Republika</item>
+        <item>Slovenija</item>
+        <item>Solomonska ostrva</item>
+        <item>Somalija</item>
+        <item>Južna Afrika</item>
+        <item>Južni Sudan</item>
+        <item>Španija</item>
+        <item>Šri Lanka</item>
+        <item>Sudan</item>
+        <item>Surinam</item>
+        <item>Švedska</item>
+        <item>Švajcarska</item>
+        <item>Sirija</item>
+        <item>Tadžikistan Republika</item>
+        <item>Tanzanija</item>
+        <item>Tajland</item>
+        <item>Togo</item>
+        <item>Tonga</item>
+        <item>Trinidad i Tobago</item>
+        <item>Tunis</item>
+        <item>Turska</item>
+        <item>Turkmenistan</item>
+        <item>Tuvalu</item>
+        <item>Uganda</item>
+        <item>Ukrajina</item>
+        <item>Ujedinjeni Arapski Emirati</item>
+        <item>Ujedinjeno Kraljevstvo</item>
+        <item>Sjedinjene Američke Države</item>
+        <item>Urugvaj</item>
+        <item>Uzbekistan Republika</item>
+        <item>Vanuatu</item>
+        <item>Sveta Stolica</item>
+        <item>Venecuela</item>
+        <item>Vijetnam</item>
+        <item>Jemen</item>
+        <item>Zambija</item>
+        <item>Zimbabve</item>
+
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
+

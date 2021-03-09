@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "142712509448",
+    "project_id": "viznirezim",
+    "storage_bucket": "viznirezim.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142712509448:android:48c35e6142d498d572adbd",
+        "android_client_info": {
+          "package_name": "com.example.viznireim"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "142712509448-d9a45406kpklnkfr92qnjq13b1s38oqa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.viznireim",
+            "certificate_hash": "10cc0fb1a49aba30a4d12e6f137278b792373b89"
+          }
+        },
+        {
+          "client_id": "142712509448-jjpg2tjka6suq1r9bu03ibnsdpvtck58.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADZzDMIgU1Ht8TgamAINNX8TCfI-3fufM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "142712509448-jjpg2tjka6suq1r9bu03ibnsdpvtck58.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
